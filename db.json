@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "djole.b",
+      "password": "1234",
+      "admin": true
+    },
+    {
+      "id": 2,
+      "username": "luka.b",
+      "password": "abcd",
+      "admin": false
+    },
+    {
+      "id": 3,
+      "username": "tamara",
+      "password": "tasa",
+      "admin": false
+    },
+    {
+      "id": 4,
+      "username": "zeljana",
+      "password": "zeca",
+      "admin": false
+    },
+    {
+      "username": "nikola",
+      "password": "3698",
+      "admin": false
+    }
+  ],
+  "messages": [],
+  "announcements": [],
+  "meetings": [],
+  "grades": []
+}
